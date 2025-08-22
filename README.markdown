@@ -34,7 +34,7 @@ Check out my stellar creations:
 I’m out here pushing the boundaries of code like a space explorer charting new stars! 🌌  
 - **Supercharging Emente AI**: Adding cutting-edge features like [e.g., predictive analytics or voice integration] to make it a game-changer. Think AI that’s practically sentient! 🤖  
 - **Hacking the Web**: Experimenting with Firebase and GSAP to build web apps so smooth they feel like gliding through hyperspace.   
-- **Secret Side Quest**: Tinkering with a [tease a cool idea, e.g., neural network art generator or VR dashboard] that’s gonna blow minds—stay tuned! 😎
+- **Secret Side Quest**: Tinkering with a neural network art generator  that’s gonna blow minds—stay tuned! 😎
 
 <div align="center"><img src="assets/cosmic-divider.svg" width="100%" height="40" alt="Cosmic animated divider" /></div>
 
