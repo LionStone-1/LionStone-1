@@ -22,8 +22,12 @@ jobs:
           ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
         run: |
           if [ -z "$ACTIVITY_TOKEN" ]; then
-            echo "::notice::ACTIVITY_TOKEN secret not set - daily contributions are disabled."
-            echo "To enable them, add a GitHub PAT (repo scope) as a repository secret named ACTIVITY_TOKEN."
+            echo "::notice::Daily contributions are disabled because the ACTIVITY_TOKEN secret is not set."
+            echo "To enable automatic daily commits that count toward your contribution graph:"
+            echo "  1) Create a PAT at https://github.com/settings/tokens with the 'repo' scope."
+            echo "  2) In this repo, go to Settings > Secrets and variables > Actions."
+            echo "  3) Add a repository secret named ACTIVITY_TOKEN with the PAT as its value."
+            echo "  4) Re-run this workflow (Actions > Daily Activity > Run workflow)."
             exit 0
           fi
           git config user.name "Shashwat Gupta"
