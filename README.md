@@ -13,7 +13,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/LionStone-1?style=flat-square&color=8b5cf6&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/LionStone-1?style=flat-square&color=8b5cf6&label=Stars" alt="Stars" />
 
 </div>
 
