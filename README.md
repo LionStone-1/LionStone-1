@@ -79,7 +79,11 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 <div align="center">
 
-![GitHub Stats Card](https://raw.githubusercontent.com/LionStone-1/LionStone-1/stats/github-stats-card.svg)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=public_repos&style=for-the-badge&label=Repositories&color=8b5cf6&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=following&style=for-the-badge&label=Following&color=8b5cf6&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=for-the-badge&label=Profile+Views)
 
 </div>
 
