@@ -4,7 +4,7 @@
 
 <b>Co-Founder @ EmenteAI</b> · Full-Stack Developer & AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=700&color=8B5CF6&width=600&lines=Full-Stack+Developer;AI+Engineer;Co-Founder+%40+EmenteAI;Open-Source+Mentor" alt="Typing SVG" style="display:block;margin:0.8rem auto 0;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=700&color=8B5CF6&width=360&lines=Full-Stack+Developer;AI+Engineer;Co-Founder+%40+EmenteAI;Open-Source+Mentor" alt="Typing SVG" style="display:block;margin:0.5rem auto 0;" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
