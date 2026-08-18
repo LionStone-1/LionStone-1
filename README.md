@@ -27,13 +27,6 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 - Reach me at **shashwatguptaid@gmail.com**
 - Fun fact: organized a hackathon with 50+ participants
 
-**Community**
-
-[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff7f2a?style=flat-square&logo=git&logoColor=white)](https://hacktoberfest.com)
-[![GSSoC](https://img.shields.io/badge/GSSoC-Mentor-ff6f00?style=flat-square)](https://gssoc.girlscript.tech)
-[![SWOC](https://img.shields.io/badge/SWOC-Mentor-00a859?style=flat-square)](https://swoc.tech)
-[![Open Source Connect](https://img.shields.io/badge/Open%20Source%20Connect-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://github.com/LionStone-1)
-
 <details>
   <summary>Open Source & Community</summary>
 
