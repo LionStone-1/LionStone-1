@@ -78,16 +78,6 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 ---
 
-## Tech Galaxy
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/galaxy.svg" alt="Tech galaxy" />
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
