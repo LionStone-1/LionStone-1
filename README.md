@@ -114,11 +114,7 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 ---
 
-<div align="center">
-
 > [!TIP]
 > "Code the stars, debug the voids, and launch your dreams into orbit."
 
-Crafted with care and a sprinkle of quantum caffeine.
-
-</div>
+<div align="center">Crafted with care and a sprinkle of quantum caffeine.</div>
