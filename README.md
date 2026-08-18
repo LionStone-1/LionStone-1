@@ -102,20 +102,6 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap.svg" />
-  <img alt="Contribution heatmap" src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap.svg" />
-</picture>
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
