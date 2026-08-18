@@ -96,6 +96,6 @@ I'm open to collaborations on AI + creative web projects, hackathon squads, and 
 
 Crafted with care and a sprinkle of quantum caffeine.
 
-© 2026 Shashwat Gupta
+Copyright 2026 Shashwat Gupta
 
 </div>
