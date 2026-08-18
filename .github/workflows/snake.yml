@@ -23,6 +23,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Make the dist directory writable
+        run: sudo chmod -R a+rwx dist
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
