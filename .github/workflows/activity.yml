@@ -1,0 +1,32 @@
+name: Daily Activity
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Keep the contribution graph active
+        env:
+          ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
+        run: |
+          if [ -z "$ACTIVITY_TOKEN" ]; then
+            echo "::notice::ACTIVITY_TOKEN secret not set - daily contributions are disabled."
+            echo "To enable them, add a GitHub PAT (repo scope) as a repository secret named ACTIVITY_TOKEN."
+            exit 0
+          fi
+          git config user.name "Shashwat Gupta"
+          git config user.email "shashwatguptaid@gmail.com"
+          git commit --allow-empty -m "chore: keep activity going"
+          git push "https://x-access-token:${ACTIVITY_TOKEN}@github.com/LionStone-1/LionStone-1.git" main

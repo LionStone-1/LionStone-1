@@ -4,7 +4,7 @@
 
 <b>Co-Founder @ EmenteAI</b> · Full-Stack Developer & AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=700&color=8B5CF6&width=480&lines=Full-Stack+Developer;AI+Engineer;Open-Source+Mentor;Turning+Ideas+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=700&color=8B5CF6&width=520&lines=Full-Stack+Developer;AI+Engineer;Co-Founder+%40+EmenteAI;Open-Source+Mentor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
@@ -23,10 +23,36 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 - Building **EmenteAI** — AI mental-health platform (PHQ-9 & GAD-7 assessments)
 - Learning **model fine-tuning (LoRA)** and **AI agent tooling (MCP)**
-- Mentoring for **GSSoC & SWOC** · Super Contributor at **Hacktoberfest**
 - Ask me about **full-stack development, AI/ML, and open source**
 - Reach me at **shashwatguptaid@gmail.com**
 - Fun fact: organized a hackathon with 50+ participants
+
+**Community**
+
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-ff7f2a?style=flat-square&logo=git&logoColor=white)](https://hacktoberfest.com)
+[![GSSoC](https://img.shields.io/badge/GSSoC-Mentor-ff6f00?style=flat-square)](https://gssoc.girlscript.tech)
+[![SWOC](https://img.shields.io/badge/SWOC-Mentor-00a859?style=flat-square)](https://swoc.tech)
+[![Open Source Connect](https://img.shields.io/badge/Open%20Source%20Connect-8b5cf6?style=flat-square&logo=github&logoColor=white)](https://github.com/LionStone-1)
+
+<details>
+  <summary>Open Source & Community</summary>
+
+- **Mentor** — GirlScript Summer of Code (GSSoC) 2025
+- **Mentor** — Social Winter of Code (SWOC) 2025
+- **Super Contributor** — Hacktoberfest 2025
+- **Contributor** — Open Source Connect 2025
+
+</details>
+
+<details>
+  <summary>Certifications (2025)</summary>
+
+- Fine-Tune Gemma with **LoRA**
+- Fundamentals of **MCP**
+- **Cyber Security**
+- **C++ Advanced**
+
+</details>
 
 ---
 
@@ -53,11 +79,7 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=public_repos&style=for-the-badge&label=Repositories&color=8b5cf6&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=following&style=for-the-badge&label=Following&color=8b5cf6&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=for-the-badge&label=Profile+Views)
+![GitHub Stats Card](https://raw.githubusercontent.com/LionStone-1/LionStone-1/stats/github-stats-card.svg)
 
 </div>
 
@@ -79,7 +101,8 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 ## Let's Connect
 
-I'm open to collaborations on AI + creative web projects, hackathon squads, and wild open-source ideas.
+> [!NOTE]
+> I'm open to collabs on **AI + creative web** projects, hackathon squads, and open-source ideas. Something you'd like to build? Reach out.
 
 <div align="center">
 
@@ -93,7 +116,8 @@ I'm open to collaborations on AI + creative web projects, hackathon squads, and 
 
 <div align="center">
 
-*"Code the stars, debug the voids, and launch your dreams into orbit."*
+> [!TIP]
+> "Code the stars, debug the voids, and launch your dreams into orbit."
 
 Crafted with care and a sprinkle of quantum caffeine.
 
