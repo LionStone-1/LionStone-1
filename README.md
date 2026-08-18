@@ -15,6 +15,8 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/wave.svg" width="100%" height="56" alt="" />
+
 ---
 
 ## About Me
@@ -77,6 +79,20 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 ![Followers](https://img.shields.io/github/followers/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
 ![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=following&style=for-the-badge&label=Following&color=8b5cf6&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap.svg" />
+  <img alt="Contribution heatmap" src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/heatmap.svg" />
+</picture>
 
 </div>
 
