@@ -60,16 +60,21 @@ def render_terminal():
         "profile.sh — bash</text>"
     )
 
-    # Typing reveal for each line
+    # Typing reveal for each line (loops every T seconds)
+    T = 18.0
+    hold_frac = (T - 0.4) / T
     t = 0.6
     for i, (kind, text) in enumerate(lines):
         y = pad_top + i * lh
         wpx = len(text) * charw + 6
         dur = len(text) * 0.05
+        rs = t / T
+        re = (t + dur) / T
         svg.append(
             f'<clipPath id="c{i}"><rect x="{pad_l}" y="{y - fs}" width="0" height="{lh}">'
-            f'<animate attributeName="width" from="0" to="{wpx}" dur="{dur:.2f}s" '
-            f'begin="{t:.2f}s" fill="freeze"/></rect></clipPath>'
+            f'<animate attributeName="width" values="0;0;{wpx:.1f};{wpx:.1f};0" '
+            f'keyTimes="0;{rs:.3f};{re:.3f};{hold_frac:.3f};1" dur="{T}s" '
+            f'repeatCount="indefinite"/></rect></clipPath>'
         )
         if kind == "cmd":
             prompt, _, rest = text.partition(" ")
@@ -87,17 +92,19 @@ def render_terminal():
             )
         t += dur + 0.25
 
-    # Final prompt with blinking cursor (appears after typing finishes)
+    # Final prompt with blinking cursor (shows each loop while lines hold)
     cy = pad_top + n * lh
+    show_frac = min(t / T + 0.001, 1.0)
     svg.append(
         f'<g opacity="0">'
-        f'<animate attributeName="opacity" from="0" to="1" begin="{t:.2f}s" '
-        f'dur="0.1s" fill="freeze"/>'
+        f'<animate attributeName="opacity" values="0;0;1;1;0" '
+        f'keyTimes="0;{t / T:.3f};{show_frac:.3f};0.970;1" dur="{T}s" '
+        f'repeatCount="indefinite"/>'
         f'<text x="{pad_l}" y="{cy}" font-family="Consolas,monospace" font-size="{fs}">'
         f'<tspan fill="#8b5cf6">$</tspan> '
         f'<tspan fill="#c4b5fd" opacity="0">_'
         f'<animate attributeName="opacity" values="0;1;0;1" dur="1.1s" '
-        f'begin="{t:.2f}s" repeatCount="indefinite"/></tspan>'
+        f'repeatCount="indefinite"/></tspan>'
         f"</text></g>"
     )
 
