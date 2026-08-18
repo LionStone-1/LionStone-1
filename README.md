@@ -2,14 +2,13 @@
 
 # Shashwat Gupta
 
-<b>Co-Founder @ <a href="https://ementeai.com" target="_blank">EmenteAI</a></b> · Full-Stack Developer & AI Engineer
+<b>Co-Founder @ EmenteAI</b> · Full-Stack Developer & AI Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=700&color=8B5CF6&width=480&lines=Full-Stack+Developer;AI+Engineer;Open-Source+Mentor;Turning+Ideas+into+Products" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatguptaid@gmail.com)
-[![Website](https://img.shields.io/badge/EmenteAI.com-8B5CF6?style=for-the-badge)](https://ementeai.com)
 
 <img src="https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/LionStone-1?style=flat-square&color=8b5cf6&label=Followers" alt="Followers" />
@@ -20,7 +19,7 @@
 
 ## About Me
 
-I'm an aspiring **AI & software engineering** professional pursuing an **Integrated M.Tech in Information Technology at ABV-IIITM Gwalior**. As Co-Founder of [EmenteAI](https://ementeai.com), an AI-driven mental-health platform with **6,000+ monthly visits**, I love turning big ideas into clean, useful products.
+I'm an aspiring **AI & software engineering** professional pursuing an **Integrated M.Tech in Information Technology at ABV-IIITM Gwalior**. As Co-Founder of EmenteAI, an AI-driven mental-health platform with **6,000+ monthly visits**, I love turning big ideas into clean, useful products.
 
 - Building **EmenteAI** — AI mental-health platform (PHQ-9 & GAD-7 assessments)
 - Learning **model fine-tuning (LoRA)** and **AI agent tooling (MCP)**
@@ -87,7 +86,6 @@ I'm open to collaborations on AI + creative web projects, hackathon squads, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatguptaid@gmail.com)
-[![Website](https://img.shields.io/badge/EmenteAI.com-8B5CF6?style=for-the-badge)](https://ementeai.com)
 
 </div>
 
@@ -98,7 +96,5 @@ I'm open to collaborations on AI + creative web projects, hackathon squads, and 
 *"Code the stars, debug the voids, and launch your dreams into orbit."*
 
 Crafted with care and a sprinkle of quantum caffeine.
-
-Copyright 2026 Shashwat Gupta
 
 </div>
