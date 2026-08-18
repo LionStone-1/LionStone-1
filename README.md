@@ -51,6 +51,14 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/terminal.svg" alt="Terminal profile card" />
+
+</div>
+
+---
+
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -67,6 +75,16 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## Tech Galaxy
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/galaxy.svg" alt="Tech galaxy" />
+
+</div>
 
 ---
 
