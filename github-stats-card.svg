@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191026"/><stop offset="0.6" stop-color="#111111"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#6d28d9"/></linearGradient>
+</defs>
+<rect width="640" height="264" rx="18" fill="url(#bg)"/>
+<rect x="2" y="2" width="636" height="260" rx="16" fill="none" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="44" cy="52" r="27" fill="url(#ring)"/>
+<circle cx="44" cy="52" r="25" fill="#181622"/>
+<text x="44" y="62" text-anchor="middle" font-family="Verdana,sans-serif" font-size="26" font-weight="700" fill="#c4b5fd">S</text>
+<text x="86" y="50" font-family="Verdana,sans-serif" font-size="19" font-weight="700" fill="#e6edf3">Shashwat Gupta</text>
+<text x="86" y="72" font-family="Verdana,sans-serif" font-size="13" fill="#8b949e">@LionStone-1</text>
+<text x="608" y="50" text-anchor="end" font-family="Verdana,sans-serif" font-size="12" fill="#8b5cf6" font-weight="700" letter-spacing="1">GITHUB STATS</text>
+<line x1="32" y1="98" x2="608" y2="98" stroke="#21262d" stroke-width="1"/>
+<text x="32" y="140" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">20</text>
+<text x="32" y="160" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Repositories</text>
+<text x="224" y="140" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">1</text>
+<text x="224" y="160" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Total Stars</text>
+<text x="416" y="140" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">4</text>
+<text x="416" y="160" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Followers</text>
+<text x="32" y="200" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">1</text>
+<text x="32" y="220" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Following</text>
+<text x="224" y="200" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">0</text>
+<text x="224" y="220" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Public Gists</text>
+<text x="416" y="200" font-family="Verdana,sans-serif" font-size="27" font-weight="700" fill="#e6edf3">2024</text>
+<text x="416" y="220" font-family="Verdana,sans-serif" font-size="12" fill="#8b949e">Since</text>
+<text x="320.0" y="246" text-anchor="middle" font-family="Verdana,sans-serif" font-size="10" fill="#484f58">Updated daily via GitHub Actions · 22 Aug 2026 UTC</text>
+</svg>
